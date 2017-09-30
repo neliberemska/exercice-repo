@@ -7,3 +7,4 @@ Let's do some changes from GitBash.
 Making a conflict.
 Making changes in GitHub
 Making changes in master.
+Making changes in develop2.
