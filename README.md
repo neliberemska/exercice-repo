@@ -5,3 +5,4 @@ Edited again in master branch..
 Hello again!
 Let's do some changes from GitBash.
 Making a conflict.
+Making changes in GitHub
